@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://wellness-nq9mwqs4u-krishiv-sharmas-projects.vercel.app 
+**URL**: https://wellness-app-black.vercel.app/
 
 ## How can I edit this code?
 
